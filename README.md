@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @blackall-jpm
 - 👀 I’m interested in ... all things techy
-- 🌱 I’m currently sklling up on ... java, javascript, rest apis
+- 🌱 I’m currently sklling up on ... java, javascript, rest apis, automation
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
